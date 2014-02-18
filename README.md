@@ -1,0 +1,4 @@
+lottbicolor
+===========
+
+bicolor lottery analysis
